@@ -10,7 +10,7 @@ const search = instantsearch({
   apiKey: '{{ site.algolia.search_only_api_key }}',
   indexName: '{{ site.algolia.index_name }}',
   searchFunction: function(helper) {
-
+    helper.search();
   }
   
 });
