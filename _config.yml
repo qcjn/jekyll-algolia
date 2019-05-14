@@ -29,6 +29,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-menus
 
 algolia:
   application_id: HT86SOC2F9
