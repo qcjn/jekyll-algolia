@@ -32,9 +32,9 @@ plugins:
   - jekyll-menus
 
 algolia:
-  application_id: HT86SOC2F9
-  index_name: example
-  search_only_api_key: f0ecc3cfbb3becc5b9ea8f6bea975cb1
+  application_id: CQM8WJNMX0
+  index_name: test
+  search_only_api_key: 69e5262f45b14709f60f85f2315c8d66
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
