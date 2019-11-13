@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "jekyll build && ALGOLIA_API_KEY='2000729d563d6c82a7c5d67373fa3cfb' jekyll algolia && mv _site public"
+  }
+}
